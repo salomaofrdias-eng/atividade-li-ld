@@ -4,9 +4,9 @@
 
 Trabalho de **Álgebra Linear**, Prof. Dr. Flausino Spindola.
 
-**Alunos:** Cauã Barros (matrícula 20240045292) · Salomão Ferreira Dias (matrícula 2023030256)
-**Link do Colab:** <https://colab.research.google.com/drive/1MtnTAuxW-dR9oEXj7ojE2VY0UhK6vztv?usp=sharing>
-**Repositório:** <https://github.com/salomaofrdias-eng/atividade-li-ld>
+- **Alunos:** Cauã Barros (matrícula 20240045292) · Salomão Ferreira Dias (matrícula 2023030256)
+- **Link do Colab:** <https://colab.research.google.com/drive/1MtnTAuxW-dR9oEXj7ojE2VY0UhK6vztv?usp=sharing>
+- **Repositório:** <https://github.com/salomaofrdias-eng/atividade-li-ld>
 
 Programa em Python que julga se vetores de R³ são **linearmente independentes (LI)** ou
 **linearmente dependentes (LD)**:
